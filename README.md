@@ -7,6 +7,9 @@
 </p> 
 
 <p align="center">
+support server: https://discord.gg/fgMC6SetXk
+</p>
+<p align="center">
 website: https://edoderg.github.io
 </p>
 
