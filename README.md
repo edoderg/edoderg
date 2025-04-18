@@ -1,14 +1,4 @@
-<h1 align="center">edo's discord</h1>
-
-<p align="center">
-    <a href="https://discord.com/users/269831113919299584">
-        <img title="edo's Discord" alt="edo's discord" src="https://discord.c99.nl/widget/theme-4/269831113919299584.png"/>
-    </a>
-</p> 
-
-<p align="center">
-support server: https://discord.gg/fgMC6SetXk
-</p>
+<h1 align="center">edo</h1>
 
 <div align=center>
   <h3><b>📍 Profil Aufrufe</b></h3>
